@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD
+http://vvn.neoredi.com/iptv/ch729?code=210154416631846&key=19146
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Al Oula Laayoun
+http://vvn.neoredi.com/iptv/ch611?code=210154416631846&key=54728
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD TNT
+http://vvn.neoredi.com/iptv/ch350?code=210154416631846&key=43275
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Morocco",2M Maroc
+http://vvn.neoredi.com/iptv/ch121?code=210154416631846&key=29544
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Maghreb HD
+http://vvn.neoredi.com/iptv/ch166?code=210154416631846&key=34590
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Afrique HD
+http://vvn.neoredi.com/iptv/ch1460?code=210154416631846&key=14112
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Arab HD
+http://vvn.neoredi.com/iptv/ch1461?code=210154416631846&key=36969
+#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="Morocco",Arrabiaa
+http://vvn.neoredi.com/iptv/ch761?code=210154416631846&key=61578
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia
+http://vvn.neoredi.com/iptv/ch733?code=210154416631846&key=37243
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia TNT
+http://vvn.neoredi.com/iptv/ch351?code=210154416631846&key=41364
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia Live HD
+http://vvn.neoredi.com/iptv/ch377?code=210154416631846&key=11007
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Morocco",Assadissa
+http://vvn.neoredi.com/iptv/ch147?code=210154416631846&key=22625
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Assabiaa TNT
+http://vvn.neoredi.com/iptv/ch352?code=210154416631846&key=48842
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Morocco",Al Maghribia
+http://vvn.neoredi.com/iptv/ch56?code=210154416631846&key=52598
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Tamazight Maroc
+http://vvn.neoredi.com/iptv/ch487?code=210154416631846&key=22462
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Tele Maroc
+http://vvn.neoredi.com/iptv/ch1142?code=210154416631846&key=42866
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Tele Maroc
+http://vvn.neoredi.com/iptv/ch666?code=210154416631846&key=13537
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Canal Atlas
+http://vvn.neoredi.com/iptv/ch615?code=210154416631846&key=33337
+#EXTINF:0 tvg-id="ext" group-title="Morocco",2M Maroc +4
+http://vvn.neoredi.com/iptv/ch4121?code=210154416631846&key=18086
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 +4
+http://vvn.neoredi.com/iptv/ch4166?code=210154416631846&key=57420
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD +4
+http://vvn.neoredi.com/iptv/ch4729?code=210154416631846&key=32965
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/1467.png",Maroc 24
+http://vvn.neoredi.com/iptv/ch1467?code=210154416631846&key=30201
