@@ -1,1 +1,3 @@
-tvg-logo="http://mijn.me/logo/galery/maghrebtv.png" 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD
+http://vvn.neoredi.com/iptv/ch729?code=210154416631846&key=19146
