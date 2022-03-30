@@ -1,3 +1,13 @@
-
-#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD
-http://vvn.neoredi.com/iptv/ch729?code=210154416631846&key=19146
+#EXTM3U
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://apimg.in/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7819.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7824.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://picons.atlaspro.to/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7823.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="CANAL+ HD" tvg-logo="https://apimg.in/picons/NEW2022/canal+.png" group-title="FRANCE HD",CANAL+ HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7809.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="https://apimg.in/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7821.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://apimg.in/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
+http://prootv.in:8000/live/98147559518503751/1593574628/7818.ts
