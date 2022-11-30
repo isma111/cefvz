@@ -45,3 +45,7 @@ http://electrotv.net:80/live/48672297694458775/1593574628/7196.ts
 http://electrotv.net:80/live/48672297694458775/1593574628/12464.ts
 #EXTINF:-1 tvg-id="" tvg-name="MA | CANAL ATLAS" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/CANALATLAS.png" group-title="MOROCCO",MA | CANAL ATLAS
 http://electrotv.net:80/live/48672297694458775/1593574628/12465.ts
+#EXTINF:-1 tvg-id="mbc5en.ae" tvg-name="AR | MBC 5 HD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MBC5.png" group-title="ARABIC",AR | MBC 5 HD 
+http://electrotv.net:80/live/48672297694458775/1593574628/43989.ts
+#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="AR | MBC 5 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MBC5.png" group-title="ARABIC",AR | MBC 5 SD
+http://electrotv.net:80/live/48672297694458775/1593574628/37943.ts
