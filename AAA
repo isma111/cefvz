@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="MA | AL AOULA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULAHD.png" group-title="MOROCCO",MA | AL AOULA HD
+http://electrotv.net:80/live/48672297694458775/1593574628/44964.ts
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="MA | AL AOULA " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULAHD.png" group-title="MOROCCO",MA | AL AOULA 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MA | AL AOULA LAAYOUN" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULALA3YOUN.png" group-title="MOROCCO",MA | AL AOULA LAAYOUN
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="2MMaroc.ma" tvg-name="MA | 2M MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/2M.png" group-title="MOROCCO",MA | 2M MAROC
+http://electrotv.net:80/live/48672297694458775/1593574628/1702.ts
+#EXTINF:-1 tvg-id="2MMonde.fr" tvg-name="MA | 2M MONDE" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/2M.png" group-title="MOROCCO",MA | 2M MONDE
+http://electrotv.net:80/live/48672297694458775/1593574628/23747.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | ARRYADIA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIYADIAHD.png" group-title="MOROCCO",MA | ARRYADIA HD
+http://electrotv.net:80/live/48672297694458775/1593574628/71575.ts
+#EXTINF:-1 tvg-id="951" tvg-name="MA | ARRYADIA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIADIYA.png" group-title="MOROCCO",MA | ARRYADIA SD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MA | ARRYADIA TNT" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIADIYA.png" group-title="MOROCCO",MA | ARRYADIA TNT
+http://electrotv.net:80/live/48672297694458775/1593574628/14753.ts
+#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-name="MA | ATHAQAFIA TV " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRABIAA.png" group-title="MOROCCO",MA | ATHAQAFIA TV 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="951" tvg-name="MA | AL MAGHRIBIA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALMAGHRIBIA.png" group-title="MOROCCO",MA | AL MAGHRIBIA HD
+http://electrotv.net:80/live/48672297694458775/1593574628/32617.ts
+#EXTINF:-1 tvg-id="NickJuniorGlobal.eu" tvg-name="MA | AL MAGHRIBIA " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALMAGHRIBIA.png" group-title="MOROCCO",MA | AL MAGHRIBIA 
+http://electrotv.net:80/live/48672297694458775/1593574628/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | ASSADISSA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ASSADISSA.png" group-title="MOROCCO",MA | ASSADISSA HD
+http://electrotv.net:80/live/48672297694458775/1593574628/71574.ts
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="MA | ASSADISSA" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ASSADISSA.png" group-title="MOROCCO",MA | ASSADISSA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="MA | ASSABIAA" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/AFLAM7.png" group-title="MOROCCO",MA | ASSABIAA
+http://electrotv.net:80/live/48672297694458775/1593574628/22660.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | TAMAZIGHT TV MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/TAMAZIGHT.png" group-title="MOROCCO",MA | TAMAZIGHT TV MAROC
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="SkyDocumntrs.uk" tvg-name="MA | MEDI 1 TV Arabic" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 TV Arabic
+http://electrotv.net:80/live/48672297694458775/1593574628/1711.ts
+#EXTINF:-1 tvg-id="951" tvg-name="MA | MEDI 1 MAGHREB" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 MAGHREB
+http://electrotv.net:80/live/48672297694458775/1593574628/37026.ts
+#EXTINF:-1 tvg-id="Med1.tv.Afrique.ma" tvg-name="MA | MEDI 1 AFRIQUE" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 AFRIQUE
+http://electrotv.net:80/live/48672297694458775/1593574628/37027.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | M24TV" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/M24.png" group-title="MOROCCO",MA | M24TV
+http://electrotv.net:80/live/48672297694458775/1593574628/37028.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | AL ONS" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALONS.png" group-title="MOROCCO",MA | AL ONS
+http://electrotv.net:80/live/48672297694458775/1593574628/12457.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | TELE MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/TELEMAROC.png" group-title="MOROCCO",MA | TELE MAROC
+http://electrotv.net:80/live/48672297694458775/1593574628/7196.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | CHADA TV" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/CHADA.png" group-title="MOROCCO",MA | CHADA TV
+http://electrotv.net:80/live/48672297694458775/1593574628/12464.ts
+#EXTINF:-1 tvg-id="" tvg-name="MA | CANAL ATLAS" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/CANALATLAS.png" group-title="MOROCCO",MA | CANAL ATLAS
+http://electrotv.net:80/live/48672297694458775/1593574628/12465.ts
