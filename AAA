@@ -1,51 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="MA | AL AOULA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULAHD.png" group-title="MOROCCO",MA | AL AOULA HD
-http://electrotv.net:80/live/48672297694458775/1593574628/44964.ts
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="MA | AL AOULA " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULAHD.png" group-title="MOROCCO",MA | AL AOULA 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA | AL AOULA LAAYOUN" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALAOULALA3YOUN.png" group-title="MOROCCO",MA | AL AOULA LAAYOUN
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="2MMaroc.ma" tvg-name="MA | 2M MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/2M.png" group-title="MOROCCO",MA | 2M MAROC
-http://electrotv.net:80/live/48672297694458775/1593574628/1702.ts
-#EXTINF:-1 tvg-id="2MMonde.fr" tvg-name="MA | 2M MONDE" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/2M.png" group-title="MOROCCO",MA | 2M MONDE
-http://electrotv.net:80/live/48672297694458775/1593574628/23747.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | ARRYADIA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIYADIAHD.png" group-title="MOROCCO",MA | ARRYADIA HD
-http://electrotv.net:80/live/48672297694458775/1593574628/71575.ts
-#EXTINF:-1 tvg-id="951" tvg-name="MA | ARRYADIA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIADIYA.png" group-title="MOROCCO",MA | ARRYADIA SD
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA | ARRYADIA TNT" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRIADIYA.png" group-title="MOROCCO",MA | ARRYADIA TNT
-http://electrotv.net:80/live/48672297694458775/1593574628/14753.ts
-#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-name="MA | ATHAQAFIA TV " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ARRABIAA.png" group-title="MOROCCO",MA | ATHAQAFIA TV 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="951" tvg-name="MA | AL MAGHRIBIA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALMAGHRIBIA.png" group-title="MOROCCO",MA | AL MAGHRIBIA HD
-http://electrotv.net:80/live/48672297694458775/1593574628/32617.ts
-#EXTINF:-1 tvg-id="NickJuniorGlobal.eu" tvg-name="MA | AL MAGHRIBIA " tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ALMAGHRIBIA.png" group-title="MOROCCO",MA | AL MAGHRIBIA 
-http://electrotv.net:80/live/48672297694458775/1593574628/1705.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | ASSADISSA HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ASSADISSA.png" group-title="MOROCCO",MA | ASSADISSA HD
-http://electrotv.net:80/live/48672297694458775/1593574628/71574.ts
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="MA | ASSADISSA" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/ASSADISSA.png" group-title="MOROCCO",MA | ASSADISSA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="MA | ASSABIAA" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/AFLAM7.png" group-title="MOROCCO",MA | ASSABIAA
-http://electrotv.net:80/live/48672297694458775/1593574628/22660.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | TAMAZIGHT TV MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/TAMAZIGHT.png" group-title="MOROCCO",MA | TAMAZIGHT TV MAROC
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="SkyDocumntrs.uk" tvg-name="MA | MEDI 1 TV Arabic" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 TV Arabic
-http://electrotv.net:80/live/48672297694458775/1593574628/1711.ts
-#EXTINF:-1 tvg-id="951" tvg-name="MA | MEDI 1 MAGHREB" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 MAGHREB
-http://electrotv.net:80/live/48672297694458775/1593574628/37026.ts
-#EXTINF:-1 tvg-id="Med1.tv.Afrique.ma" tvg-name="MA | MEDI 1 AFRIQUE" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/MEDI1.png" group-title="MOROCCO",MA | MEDI 1 AFRIQUE
-http://electrotv.net:80/live/48672297694458775/1593574628/37027.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | M24TV" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/M24.png" group-title="MOROCCO",MA | M24TV
-http://electrotv.net:80/live/48672297694458775/1593574628/37028.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | AL ONS" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALONS.png" group-title="MOROCCO",MA | AL ONS
-http://electrotv.net:80/live/48672297694458775/1593574628/12457.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | TELE MAROC" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/TELEMAROC.png" group-title="MOROCCO",MA | TELE MAROC
-http://electrotv.net:80/live/48672297694458775/1593574628/7196.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | CHADA TV" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/CHADA.png" group-title="MOROCCO",MA | CHADA TV
-http://electrotv.net:80/live/48672297694458775/1593574628/12464.ts
-#EXTINF:-1 tvg-id="" tvg-name="MA | CANAL ATLAS" tvg-logo="http://apimg.in/picons/PICONS-BOUUQUET-MOROCCO/CANALATLAS.png" group-title="MOROCCO",MA | CANAL ATLAS
-http://electrotv.net:80/live/48672297694458775/1593574628/12465.ts
-#EXTINF:-1 tvg-id="mbc5en.ae" tvg-name="AR | MBC 5 HD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MBC5.png" group-title="ARABIC",AR | MBC 5 HD 
-http://electrotv.net:80/live/48672297694458775/1593574628/43989.ts
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="AR | MBC 5 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MBC5.png" group-title="ARABIC",AR | MBC 5 SD
-http://electrotv.net:80/live/48672297694458775/1593574628/37943.ts
+
+#EXTINF:-1 tvg-ID="Al Aoula Tv ARB" tvg-name="|AR| AL AOULA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_me.png" group-title="AR | MAROC",|AR| AL AOULA FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28637
+#EXTINF:-1 tvg-ID="alaoula.ma" tvg-name="|AR| AL AOULA INTER HD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/alaoulainter_2.png" group-title="AR | MAROC",|AR| AL AOULA INTER HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4447
+#EXTINF:-1 tvg-ID="alaoula.ma" tvg-name="|AR| AL AOULA TNT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_me.png" group-title="AR | MAROC",|AR| AL AOULA TNT
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28636
+#EXTINF:-1 tvg-ID="Al Aoula Tv ARB" tvg-name="|AR| AL OULA INTER" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/alaoulainter_2.png" group-title="AR | MAROC",|AR| AL OULA INTER
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4448
+#EXTINF:-1 tvg-ID="2mmaroc.ca" tvg-name="|AR| 2M MAROC" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/2mmaroc.png" group-title="AR | MAROC",|AR| 2M MAROC
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4481
+#EXTINF:-1 tvg-ID="2mmaroc.ca" tvg-name="|AR| 2M TNT" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/2mmaroc.png" group-title="AR | MAROC",|AR| 2M TNT
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11102
+#EXTINF:-1 tvg-ID="2mmaroc.ca" tvg-name="|AR| 2M TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="AR | MAROC",|AR| 2M TV HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28657
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRIADYA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRIADYA FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28568
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRYADIA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRYADIA HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277400
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRIADIA TNT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRIADIA TNT
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11101
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRIADYA MAROC HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRIADYA MAROC HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28569
+#EXTINF:-1 tvg-ID="Medi 1 TV ARB" tvg-name="|AR| MEDI1 ARABIC FHD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/medi1tv_ma.png" group-title="AR | MAROC",|AR| MEDI1 ARABIC FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28433
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| MEDI1 TV HD" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/medi-1-tv-ma.png" group-title="AR | MAROC",|AR| MEDI1 TV HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277397
+#EXTINF:-1 tvg-ID="Medi 1 TV ARB" tvg-name="|AR| MEDI1 MAGHREB HD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/medi1tv_ma.png" group-title="AR | MAROC",|AR| MEDI1 MAGHREB HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11100
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| MEDI1 AFRIQUE HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="AR | MAROC",|AR| MEDI1 AFRIQUE HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/10797
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| Al MAGHRIBIA Al EKHBARIA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="AR | MAROC",|AR| Al MAGHRIBIA Al EKHBARIA FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277396
+#EXTINF:-1 tvg-ID="Al Maghribia ARB" tvg-name="|AR| AL MAGHRIBIA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="AR | MAROC",|AR| AL MAGHRIBIA HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28623
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ALMAGHRIBIA TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo_al_maghribia.png" group-title="AR | MAROC",|AR| ALMAGHRIBIA TNT
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11099
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AL AOULA INTER LAAYOUNE" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/laayounetv.png" group-title="AR | MAROC",|AR| AL AOULA INTER LAAYOUNE
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4102
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| LAAYOUNE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_laayoune.png" group-title="AR | MAROC",|AR| LAAYOUNE HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277402
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRABIA  FHD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" group-title="AR | MAROC",|AR| ARRABIA  FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11004
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ATHAQAFIA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_4_athaqafia.png" group-title="AR | MAROC",|AR| ATHAQAFIA HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277401
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRABIA TV" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" group-title="AR | MAROC",|AR| ARRABIA TV
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4410
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| TAMAZIGHT MAROC FHD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/tamazight_ma.png" group-title="AR | MAROC",|AR| TAMAZIGHT MAROC FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28320
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| TAMAZIGHT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_8_tamazight.png" group-title="AR | MAROC",|AR| TAMAZIGHT HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277398
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| M24" tvg-logo="https://cdn-profiles.tunein.com/s134475/images/logoq.png" group-title="AR | MAROC",|AR| M24
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/10112
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| CHADA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/c2/%D8%B4%D8%AF%D9%89_%D8%A5%D9%81_%D8%A5%D9%85.png" group-title="AR | MAROC",|AR| CHADA TV HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/10101
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| CHADA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="AR | MAROC",|AR| CHADA TV HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277404
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| TELE MAROC HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_maroc_es.png" group-title="AR | MAROC",|AR| TELE MAROC HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277403
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| TELE MAROC" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/telemaroc.png" group-title="AR | MAROC",|AR| TELE MAROC
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28317
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AFLAM TV MAROC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_aflam_tv.png/150px-Logo_aflam_tv.png" group-title="AR | MAROC",|AR| AFLAM TV MAROC FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/4468
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AL ONS TV MAROC" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png" group-title="AR | MAROC",|AR| AL ONS TV MAROC
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/18462
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ASSADISA FHD" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/assadissa.png" group-title="AR | MAROC",|AR| ASSADISA FHD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/28567
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ASSADISSA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_6_assadissa.png" group-title="AR | MAROC",|AR| ASSADISSA HD
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/277399
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ASSADISSA" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/assadissa.png" group-title="AR | MAROC",|AR| ASSADISSA
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/11001
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRIADIA +5" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRIADIA +5
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/14889
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| 2M +5" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/2mmaroc.png" group-title="AR | MAROC",|AR| 2M +5
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/14888
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| MEDI 1 +5" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/medi1tv_ma.png" group-title="AR | MAROC",|AR| MEDI 1 +5
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/14890
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ALOULA +5" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/alaoulainter_2.png" group-title="AR | MAROC",|AR| ALOULA +5
+http://scorpioniptv.com:2086/6c4encqhl4/djvj3neg/14891
